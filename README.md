@@ -4,6 +4,7 @@ Homebrew tap for tools by [kyoangel](https://github.com/kyoangel).
 
 ```sh
 brew tap kyoangel/tap
+brew trust kyoangel/tap
 ```
 
 ## Apps
